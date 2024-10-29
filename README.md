@@ -24,3 +24,11 @@ By Kieran Xiang
 
 ```bash
 npm install -g azure-functions-core-tools@4 --unsafe-perm true
+```
+
+## 激活venv虚拟环境
+```bash
+.\.venv\Scripts\Activate.ps1
+```
+![image](https://github.com/user-attachments/assets/9d2d4226-0e73-42bf-96c0-fba5c87fa961)
+
